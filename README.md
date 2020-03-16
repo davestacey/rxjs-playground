@@ -1,4 +1,5 @@
 # rxjs-playground
 
-#####[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/rxjs-playground-template)
-#####[Edit on codesandbox ⚡️](https://codesandbox.io/s/github/davestacey/rxjs-playground)
+[Edit on codesandbox ⚡️](https://codesandbox.io/s/github/davestacey/rxjs-playground)
+
+Stackblitz issues w github. "...only supports projects scaffolded with @angular/cli"
